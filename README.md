@@ -33,7 +33,7 @@ The server will start and wait for client connections.
 
 3. Start the Client                                                                                                                                                                                                                                                   
   In a new terminal window, run the client application:                                                                                                   
-    -java Client                                                                                                                                                                                                                   
+    -java Client                                                                                                                                                                                                                                                                                    
 *You can start multiple clients by using IDE or opening additional terminals and running the same command.(IDE SS below)*
 
 # 💬 Example Usage-                                                                                               
