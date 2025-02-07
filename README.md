@@ -2,7 +2,7 @@
 💬Simple Chat Application in Java (TCP Client-Server) | Java Networking📡                                                                                        
 
 🌐Description->                                                                                                                                                                                                                      
-This is a basic console-based chat system built with Java using TCP socket programming. The application follows a client-server architecture, where the server listens for incoming client connections and facilitates real-time communication between connected clients, also enable you to see ip addresses. You can add as many features/functionalies as you can.🚀                                                                                                                                                             
+This is a basic console-based chat system built with Java using TCP socket programming. The application follows a client-server architecture, where the server listens for incoming client connections and facilitates real-time communication between connected clients, also enable you to see ip addresses, list of connected clients. You can add as many features/functionalies as you can.🚀                                                                                                                                                             
                 
 ✨Features                                                            
 
