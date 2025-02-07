@@ -4,7 +4,7 @@
 🌐Description->                                                                                                                                                                                                                      
 This is a basic console-based chat system built with Java using TCP socket programming. The application follows a client-server architecture, where the server listens for incoming client connections and facilitates real-time communication between connected clients, also enable you to see ip addresses, list of connected clients. You can add as many features/functionalies as you can.🚀                                                                                                                                                             
                 
-✨Features                                                            
+# ✨Features                                                            
 
 💠Supports multiple clients connecting to the server.                                                                                                       
 💠Real-time message exchange using TCP sockets.                                                                                                                   
@@ -14,9 +14,9 @@ This is a basic console-based chat system built with Java using TCP socket progr
 💠Simple and efficient implementation of networking concepts.                                                                                                                                                  
 💠Built for learning Java & networking, not real-world production use.                                                                                                                      
 
-🛡 Technologies Used- Java, IntelliJ IDEA.                                                                                                      
+# 🛡 Technologies Used- Java, IntelliJ IDEA.                                                                                                      
 
-🛠 How to Run                                                                                                      
+# 🛠 How to Run                                                                                                      
 
 ✔ Use any IDE like Netbeans, Intellij IDEA, VS code or follow the instructions below-                                                                                               
 
@@ -36,13 +36,13 @@ The server will start and wait for client connections.
     -java Client                                                                                                                                                                                                                   
 *You can start multiple clients by using IDE or opening additional terminals and running the same command.(IDE SS below)*
 
-💬 Example Usage-                                                                                               
+# 💬 Example Usage-                                                                                               
                                  
 👉Start the server first.                                                                                                                                                                             
 👉Run one or more clients.                                                                                                                                                                       
 👉Clients can send messages to the server and the server will broadcast messages/ip to all connected clients.                                                                                                                       
                                                                                                            
-📲Snapshots:                                                                                         
+# 📲Snapshots:                                                                                         
 
 👇Server starts...                                                         
 
@@ -78,7 +78,7 @@ The server will start and wait for client connections.
                                                     
 ![image](https://github.com/user-attachments/assets/ad081b72-3983-4e4e-826a-0e694d74454f)                                                                                                          
 
-🔧 How It Works                                                                             
+# 🔧 How It Works                                                                             
 
 1. Server starts first and listens for connections. ⚡                                                                                                              
 2. Clients connect and send messages. 💬                                                                                                                                       
@@ -86,13 +86,13 @@ The server will start and wait for client connections.
 4. Special keywords like send, ip trigger certain actions. 📝                                                                                                                     
 5. Messages are delivered to respective clients via TCP. 📡                                                                                                                                                                                                  
                                                                        
-🚀 Future Improvements                                                                                                                                                                
+# 🚀 Future Improvements                                                                                                                                                                
 
 💠Add GUI (JavaFX, Swing) for a user-friendly interface 🖥️                                                                                                        
 💠Implement encryption for secure communication 🔒                                                                                  
 💠Improve scalability for handling more users 🌍                                                                                         
 
-📌 Installation & Usage                                                                                                                     
+# 📌 Installation & Usage                                                                                                                     
 
 1. Clone the repository: git clone [GitHub Repo Link] 🖥️                                                                                        
 2. Open in IntelliJ IDEA (or any Java IDE) 💡                                                                                                                                    
