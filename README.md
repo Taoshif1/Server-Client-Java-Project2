@@ -1,4 +1,4 @@
-# Server-Client-Java-Project2                                           
+# 📡 Server-Client-Java-Project2                                           
 💬Simple Chat Application in Java (TCP Client-Server) | Java Networking📡                                                                                        
 
 🌐Description->                                                                                                                                                                                                                      
