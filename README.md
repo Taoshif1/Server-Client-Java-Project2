@@ -14,7 +14,7 @@ This is a basic console-based chat system built with Java using TCP socket progr
 💠Simple and efficient implementation of networking concepts.                                                                                                                                                  
 💠Built for learning Java & networking, not real-world production use.                                                                                                                      
 
-🛡 Technologies Used- Java.                                                                                                      
+🛡 Technologies Used- Java, IntelliJ IDEA.                                                                                                      
 
 🛠 How to Run                                                                                                      
 
