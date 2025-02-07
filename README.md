@@ -33,7 +33,7 @@ The server will start and wait for client connections.
 
 3. Start the Client                                                                                                                                                                                                                                                   
   In a new terminal window, run the client application:                                                                                                   
-    -java Client                                                                                                                                                                                                                                                                                    
+    -java Client                                                                                                                                                                                                                                                                                                                                                        
 *You can start multiple clients by using IDE or opening additional terminals and running the same command.(IDE SS below)*
 
 # 💬 Example Usage-                                                                                               
@@ -88,9 +88,9 @@ The server will start and wait for client connections.
                                                                        
 # 🚀 Future Improvements                                                                                                                                                                
 
-💠Add GUI (JavaFX, Swing) for a user-friendly interface 🖥️                                                                                                        
-💠Implement encryption for secure communication 🔒                                                                                  
-💠Improve scalability for handling more users 🌍                                                                                         
+💠Adding GUI (JavaFX, Swing) for a user-friendly interface 🖥️                                                                                                        
+💠Implementing encryption for secure communication 🔒                                                                                  
+💠Improving scalability for handling more users 🌍                                                                                         
 
 # 📌 Installation & Usage                                                                                                                     
 
@@ -100,6 +100,7 @@ The server will start and wait for client connections.
 4. Create multiple clients.(Optional) 💬                                                                                                         
 5. Start chatting! 🎉                                                                                                                                                
 
+# 🎓 Credit
 💡This project was created for learning Java networking. Inspired by how modern chat applications work! 🔥                                                                                                                       
 💡Feel free to contribute to this project or reach out with suggestions!💬                                                                                                                                                            
 💡This README provides all necessary details to set up and use the chat application. Let me know if you need modifications!👨‍💻                                                                                                                  
