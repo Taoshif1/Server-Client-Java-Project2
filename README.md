@@ -83,7 +83,7 @@ The server will start and wait for client connections.
 1. Server starts first and listens for connections. ⚡                                                                                                              
 2. Clients connect and send messages. 💬                                                                                                                                       
 3. Messages are processed using "$" to differentiate parts. ✉️                                                                                     
-4. Special keywords like send, ip trigger certain actions. 📝                                                                                                                     
+4. Special keywords like send, ip, lists trigger certain actions. 📝                                                                                                                     
 5. Messages are delivered to respective clients via TCP. 📡                                                                                                                                                                                                  
                                                                        
 # 🚀 Future Improvements                                                                                                                                                                
